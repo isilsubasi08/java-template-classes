@@ -1,0 +1,6 @@
+*.idea
+templateClasses/out
+templateClasses/.idea
+*.iml
+*.class
+
