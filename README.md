@@ -14,8 +14,6 @@ for (int i = 0; i < list.size(); i++) {
 
 ```
 <br>
- >>> Yukarıdaki örnekte ClassCastException hatası alırız.<br>
- Çünkü 2 farklı veri tipiyle listeyi oluşturmaya çalışıyorum.Bunu generic kullanmadan aşağıdaki şekilde çözebilirsiniz. Ama bu yapı kullanışlı değildir.
  <br>
 
 ```
